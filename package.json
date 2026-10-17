@@ -1,0 +1,37 @@
+{
+  "name": "高中人教版语文古诗词",
+  "version": "1.0.0",
+  "description": "按教材分册整理的高中语文古诗文，含原文、翻译、注释，支持离线阅读和右滑返回。",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "prebuild": "node scripts/clean-build.cjs",
+    "start": "aiot start --watch",
+    "build": "aiot build",
+    "postbuild": "node scripts/check-package.cjs",
+    "prestart": "node scripts/clean-build.cjs",
+    "release": "aiot release",
+    "test": "node --test tests/corpus.test.cjs tests/pages.test.cjs",
+    "import:docs": "node scripts/import-documents.cjs",
+    "check:source": "node scripts/import-documents.cjs --check",
+    "check:package": "node scripts/check-package.cjs",
+    "lint": "eslint --format codeframe --fix --ext .ux,.js src/"
+  },
+  "lint-staged": {
+    "*.{ux,js}": [
+      "prettier --write",
+      "eslint --format codeframe --fix",
+      "git add"
+    ],
+    "*.{less,css}": [
+      "prettier --write",
+      "stylelint --fix --custom-syntax postcss-less",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "@aiot-toolkit/jsc": "^1.0.3",
+    "aiot-toolkit": "^2.0.5"
+  }
+}

@@ -1,0 +1,2074 @@
+{
+  "source": "高中统编版语文古诗文大全 (1).docx",
+  "documentSha256": "a6fe6200e4a700290f6e533a503181fb1d96fbfb1b02b5aacfabe3be13b86bb5",
+  "documentParagraphs": 6009,
+  "books": [
+    {
+      "id": "bx1",
+      "title": "必修上册",
+      "count": 19
+    },
+    {
+      "id": "bx2",
+      "title": "必修下册",
+      "count": 14
+    },
+    {
+      "id": "xx1",
+      "title": "选择性必修上册",
+      "count": 10
+    },
+    {
+      "id": "xx2",
+      "title": "选择性必修中册",
+      "count": 8
+    },
+    {
+      "id": "xx3",
+      "title": "选择性必修下册",
+      "count": 17
+    }
+  ],
+  "sections": [
+    {
+      "entryId": "bx1-01",
+      "section": "original",
+      "filename": "bx1-01-original.txt",
+      "firstParagraph": 88,
+      "lastParagraph": 96,
+      "paragraphs": 9,
+      "characters": 147,
+      "sha256": "62915f54b5b59341c81bbb9e91d769ad5182f2968061a52c87bfa68e4335d32c"
+    },
+    {
+      "entryId": "bx1-01",
+      "section": "translation",
+      "filename": "bx1-01-translation.txt",
+      "firstParagraph": 98,
+      "lastParagraph": 99,
+      "paragraphs": 2,
+      "characters": 338,
+      "sha256": "d88d97c8e887de94c2cad14c0549d570743cafb013a81b8b35ef2f75252e2d4f"
+    },
+    {
+      "entryId": "bx1-01",
+      "section": "notes",
+      "filename": "bx1-01-notes.txt",
+      "firstParagraph": 101,
+      "lastParagraph": 127,
+      "paragraphs": 27,
+      "characters": 311,
+      "sha256": "f578ab164e0f62b991e3aaaa7668af957ca07a9156a982940518f521fe9f8b9e"
+    },
+    {
+      "entryId": "bx1-02",
+      "section": "original",
+      "filename": "bx1-02-original.txt",
+      "firstParagraph": 132,
+      "lastParagraph": 137,
+      "paragraphs": 6,
+      "characters": 65,
+      "sha256": "afb87b5720c33e7f71b03191f6fd670014a0c294564971ce2d7f170142d7f3f4"
+    },
+    {
+      "entryId": "bx1-02",
+      "section": "translation",
+      "filename": "bx1-02-translation.txt",
+      "firstParagraph": 139,
+      "lastParagraph": 139,
+      "paragraphs": 1,
+      "characters": 102,
+      "sha256": "dd0708f10e337a18303bf6e1baac9eb634d0979bb75b28edac8fb59a798abd7e"
+    },
+    {
+      "entryId": "bx1-02",
+      "section": "notes",
+      "filename": "bx1-02-notes.txt",
+      "firstParagraph": 141,
+      "lastParagraph": 146,
+      "paragraphs": 6,
+      "characters": 91,
+      "sha256": "373e2f40f7628314effcd162d4c65117fbbfa003e73599d37642d7abeb8a31e4"
+    },
+    {
+      "entryId": "bx1-03",
+      "section": "original",
+      "filename": "bx1-03-original.txt",
+      "firstParagraph": 151,
+      "lastParagraph": 154,
+      "paragraphs": 4,
+      "characters": 67,
+      "sha256": "f1ed246fb1f5d9024fd5eeb93eebc5de5c85d88928f301550156e2187625b7d4"
+    },
+    {
+      "entryId": "bx1-03",
+      "section": "translation",
+      "filename": "bx1-03-translation.txt",
+      "firstParagraph": 156,
+      "lastParagraph": 156,
+      "paragraphs": 1,
+      "characters": 83,
+      "sha256": "1a409518bed32b34cf4b6cec3a4e3d9bd20118e5ad02e02cc64684c24c0dbbd5"
+    },
+    {
+      "entryId": "bx1-03",
+      "section": "notes",
+      "filename": "bx1-03-notes.txt",
+      "firstParagraph": 158,
+      "lastParagraph": 165,
+      "paragraphs": 8,
+      "characters": 90,
+      "sha256": "85379906b613f7e371dd2e570eed44db6a7f6a2e2cb8d82e50a2398f2d8d0a42"
+    },
+    {
+      "entryId": "bx1-04",
+      "section": "original",
+      "filename": "bx1-04-original.txt",
+      "firstParagraph": 170,
+      "lastParagraph": 185,
+      "paragraphs": 16,
+      "characters": 175,
+      "sha256": "20949fc432befcd6ca3e8050d97ff6550bbaa5661a4d2bb26e84f0eaf4e7b6c4"
+    },
+    {
+      "entryId": "bx1-04",
+      "section": "translation",
+      "filename": "bx1-04-translation.txt",
+      "firstParagraph": 187,
+      "lastParagraph": 187,
+      "paragraphs": 1,
+      "characters": 330,
+      "sha256": "7b1a1f1a2663397866bd6ad0cdba7d05f7946ac72d78cf3cfb43c832502d7dc0"
+    },
+    {
+      "entryId": "bx1-04",
+      "section": "notes",
+      "filename": "bx1-04-notes.txt",
+      "firstParagraph": 189,
+      "lastParagraph": 200,
+      "paragraphs": 12,
+      "characters": 143,
+      "sha256": "c60b1ca7fc0431d35550a5bb41c59fe67d7043e1922e8003cb319ee4d234046c"
+    },
+    {
+      "entryId": "bx1-05",
+      "section": "original",
+      "filename": "bx1-05-original.txt",
+      "firstParagraph": 205,
+      "lastParagraph": 214,
+      "paragraphs": 10,
+      "characters": 129,
+      "sha256": "139266c6b00e8a49747798afbe3944333288fd487376124131ab0baa052e7986"
+    },
+    {
+      "entryId": "bx1-05",
+      "section": "translation",
+      "filename": "bx1-05-translation.txt",
+      "firstParagraph": 216,
+      "lastParagraph": 216,
+      "paragraphs": 1,
+      "characters": 220,
+      "sha256": "bd678225309b16f692474b5e6b604521008080e0fdd7a005478c0d588fada394"
+    },
+    {
+      "entryId": "bx1-05",
+      "section": "notes",
+      "filename": "bx1-05-notes.txt",
+      "firstParagraph": 218,
+      "lastParagraph": 238,
+      "paragraphs": 21,
+      "characters": 230,
+      "sha256": "c1bebdf23b01feb398ad45842a869b24991d99f991fafa0335d9e844103ac857"
+    },
+    {
+      "entryId": "bx1-06",
+      "section": "original",
+      "filename": "bx1-06-original.txt",
+      "firstParagraph": 243,
+      "lastParagraph": 264,
+      "paragraphs": 22,
+      "characters": 351,
+      "sha256": "6da42d1c64c615ef9d0750ebb9ed496fefc83555999a2cad1c823a174ea05979"
+    },
+    {
+      "entryId": "bx1-06",
+      "section": "translation",
+      "filename": "bx1-06-translation.txt",
+      "firstParagraph": 266,
+      "lastParagraph": 266,
+      "paragraphs": 1,
+      "characters": 607,
+      "sha256": "0b9e75ec4de320c0bf6d469d548950a4e7358228c72e493bbb99d2c24c78d451"
+    },
+    {
+      "entryId": "bx1-06",
+      "section": "notes",
+      "filename": "bx1-06-notes.txt",
+      "firstParagraph": 268,
+      "lastParagraph": 307,
+      "paragraphs": 40,
+      "characters": 498,
+      "sha256": "c166dfab6afcc10c114461f525b2e6bc288834cf7bf98d2e78eec6146ae0e912"
+    },
+    {
+      "entryId": "bx1-07",
+      "section": "original",
+      "filename": "bx1-07-original.txt",
+      "firstParagraph": 312,
+      "lastParagraph": 315,
+      "paragraphs": 4,
+      "characters": 67,
+      "sha256": "ac77e5da1173e09f2f616592ef275604d151b973be671910b1bf163f33120dcd"
+    },
+    {
+      "entryId": "bx1-07",
+      "section": "translation",
+      "filename": "bx1-07-translation.txt",
+      "firstParagraph": 317,
+      "lastParagraph": 317,
+      "paragraphs": 1,
+      "characters": 120,
+      "sha256": "4007153aa515c190aa307f8429ef9d50e3550596b41a8d1a8100066baa63ae8f"
+    },
+    {
+      "entryId": "bx1-07",
+      "section": "notes",
+      "filename": "bx1-07-notes.txt",
+      "firstParagraph": 319,
+      "lastParagraph": 332,
+      "paragraphs": 14,
+      "characters": 191,
+      "sha256": "439a94d45752e5d0f179d424a16252d7375ff9102ee77c08672dbf3ddb7c4e1e"
+    },
+    {
+      "entryId": "bx1-08",
+      "section": "original",
+      "filename": "bx1-08-original.txt",
+      "firstParagraph": 337,
+      "lastParagraph": 384,
+      "paragraphs": 48,
+      "characters": 924,
+      "sha256": "424956078c1410251c803db27ac2118ddf0e676747ba0050f6b9ef9aea1544c5"
+    },
+    {
+      "entryId": "bx1-08",
+      "section": "translation",
+      "filename": "bx1-08-translation.txt",
+      "firstParagraph": 386,
+      "lastParagraph": 389,
+      "paragraphs": 4,
+      "characters": 1513,
+      "sha256": "5fdd63a9a4def39a95ba41e707093e2fb846e456de3cc5cf563634ad3fa28c01"
+    },
+    {
+      "entryId": "bx1-08",
+      "section": "notes",
+      "filename": "bx1-08-notes.txt",
+      "firstParagraph": 391,
+      "lastParagraph": 464,
+      "paragraphs": 74,
+      "characters": 972,
+      "sha256": "677c8c671ea3986c412b84ae0199503f45b00d5dfa6c5c4ef50218e322dc3184"
+    },
+    {
+      "entryId": "bx1-09",
+      "section": "original",
+      "filename": "bx1-09-original.txt",
+      "firstParagraph": 469,
+      "lastParagraph": 477,
+      "paragraphs": 9,
+      "characters": 130,
+      "sha256": "a515b03d1af5803c186edfe94c392a44b3ddc1650440c96eee1c45cfd0e70315"
+    },
+    {
+      "entryId": "bx1-09",
+      "section": "translation",
+      "filename": "bx1-09-translation.txt",
+      "firstParagraph": 479,
+      "lastParagraph": 480,
+      "paragraphs": 2,
+      "characters": 218,
+      "sha256": "1e72a6b68205821b9edc1f811b2f9a105b0357d4fa09521c58f22f5b17704e19"
+    },
+    {
+      "entryId": "bx1-09",
+      "section": "notes",
+      "filename": "bx1-09-notes.txt",
+      "firstParagraph": 482,
+      "lastParagraph": 497,
+      "paragraphs": 16,
+      "characters": 207,
+      "sha256": "ffbce63e8ddd3a8be6fa71f0b9b40acd13ba277413523ea6828a3524facea738"
+    },
+    {
+      "entryId": "bx1-10",
+      "section": "original",
+      "filename": "bx1-10-original.txt",
+      "firstParagraph": 502,
+      "lastParagraph": 510,
+      "paragraphs": 9,
+      "characters": 136,
+      "sha256": "1d48754ce2f5176dad9ed94db06f2fb84dcf7b923e117b960e2e81a572f67102"
+    },
+    {
+      "entryId": "bx1-10",
+      "section": "translation",
+      "filename": "bx1-10-translation.txt",
+      "firstParagraph": 512,
+      "lastParagraph": 513,
+      "paragraphs": 2,
+      "characters": 286,
+      "sha256": "8b2a3a4ff51b3cc9367728d58299771beb44bec9b5ee7000fe1d29def08435a7"
+    },
+    {
+      "entryId": "bx1-10",
+      "section": "notes",
+      "filename": "bx1-10-notes.txt",
+      "firstParagraph": 515,
+      "lastParagraph": 522,
+      "paragraphs": 8,
+      "characters": 97,
+      "sha256": "4001543072abd07227e49170fba802276822b840bd38c7ba648dc8dff5ed1f8f"
+    },
+    {
+      "entryId": "bx1-11",
+      "section": "original",
+      "filename": "bx1-11-original.txt",
+      "firstParagraph": 527,
+      "lastParagraph": 535,
+      "paragraphs": 9,
+      "characters": 126,
+      "sha256": "4ffc774fb3dadd8b254b01171632a57a14fc06feaef6f87fb5a3969a5f6cbfb9"
+    },
+    {
+      "entryId": "bx1-11",
+      "section": "translation",
+      "filename": "bx1-11-translation.txt",
+      "firstParagraph": 537,
+      "lastParagraph": 538,
+      "paragraphs": 2,
+      "characters": 176,
+      "sha256": "43594759b0a6047edde68e4c049f9a0dc8490416fe0b3b7b5c5eabd6b9f0c939"
+    },
+    {
+      "entryId": "bx1-11",
+      "section": "notes",
+      "filename": "bx1-11-notes.txt",
+      "firstParagraph": 540,
+      "lastParagraph": 548,
+      "paragraphs": 9,
+      "characters": 97,
+      "sha256": "5be11f5f6cb6cb5770fcd03f3786c726e13c868e178c48a61470774cee7c6f22"
+    },
+    {
+      "entryId": "bx1-12",
+      "section": "original",
+      "filename": "bx1-12-original.txt",
+      "firstParagraph": 553,
+      "lastParagraph": 555,
+      "paragraphs": 3,
+      "characters": 356,
+      "sha256": "3705923612d120476d8aaa0db1bd674d454e60ecdd6f83f0790a5d3db2d61d8d"
+    },
+    {
+      "entryId": "bx1-12",
+      "section": "translation",
+      "filename": "bx1-12-translation.txt",
+      "firstParagraph": 557,
+      "lastParagraph": 559,
+      "paragraphs": 3,
+      "characters": 648,
+      "sha256": "2418900753539fc20919f35edc02ee041075b3f8d5c0a491798ecfbee198d19b"
+    },
+    {
+      "entryId": "bx1-12",
+      "section": "notes",
+      "filename": "bx1-12-notes.txt",
+      "firstParagraph": 561,
+      "lastParagraph": 609,
+      "paragraphs": 49,
+      "characters": 561,
+      "sha256": "17b41b3017e6e26c07c92e94b4f5478b8b5ebfc3c6b0608539ffd84304b1e2ea"
+    },
+    {
+      "entryId": "bx1-13",
+      "section": "original",
+      "filename": "bx1-13-original.txt",
+      "firstParagraph": 614,
+      "lastParagraph": 617,
+      "paragraphs": 4,
+      "characters": 552,
+      "sha256": "77a9fbbdd3bcaa684197d52dcf216d21ce232285f7b9fc5f2ba1d0a1b30081fb"
+    },
+    {
+      "entryId": "bx1-13",
+      "section": "translation",
+      "filename": "bx1-13-translation.txt",
+      "firstParagraph": 619,
+      "lastParagraph": 622,
+      "paragraphs": 4,
+      "characters": 880,
+      "sha256": "e78cf783f6d3ccee27bfd3ca5dea3465b85c085312da15ab20060343d460bb18"
+    },
+    {
+      "entryId": "bx1-13",
+      "section": "notes",
+      "filename": "bx1-13-notes.txt",
+      "firstParagraph": 624,
+      "lastParagraph": 677,
+      "paragraphs": 54,
+      "characters": 602,
+      "sha256": "071e31153e7f65bb67c3056ab3424c9d2cf92e86e2571d4541f838e8d9e852dd"
+    },
+    {
+      "entryId": "bx1-14",
+      "section": "original",
+      "filename": "bx1-14-original.txt",
+      "firstParagraph": 682,
+      "lastParagraph": 686,
+      "paragraphs": 5,
+      "characters": 648,
+      "sha256": "5bd9eac111f0dd253b1c48127009ed5425656e80e7aca073a57224511dd5321e"
+    },
+    {
+      "entryId": "bx1-14",
+      "section": "translation",
+      "filename": "bx1-14-translation.txt",
+      "firstParagraph": 688,
+      "lastParagraph": 692,
+      "paragraphs": 5,
+      "characters": 1049,
+      "sha256": "a5c7d7b00fbbc57dc60fd0ef8887f896f7ae6ccb895735242c5e03dc20ded193"
+    },
+    {
+      "entryId": "bx1-14",
+      "section": "notes",
+      "filename": "bx1-14-notes.txt",
+      "firstParagraph": 694,
+      "lastParagraph": 780,
+      "paragraphs": 87,
+      "characters": 1002,
+      "sha256": "14ed5652281eae3fa8bdb497e1d5037d01e0d43662ccc70b9cd2b04a36e8c5f8"
+    },
+    {
+      "entryId": "bx1-15",
+      "section": "original",
+      "filename": "bx1-15-original.txt",
+      "firstParagraph": 785,
+      "lastParagraph": 790,
+      "paragraphs": 6,
+      "characters": 543,
+      "sha256": "fa06a48ddec523f6c21bc18fe8c6189ad034850eb7b60e2944a741fae2352aa0"
+    },
+    {
+      "entryId": "bx1-15",
+      "section": "translation",
+      "filename": "bx1-15-translation.txt",
+      "firstParagraph": 792,
+      "lastParagraph": 797,
+      "paragraphs": 6,
+      "characters": 957,
+      "sha256": "41e6eec73406ad2701b3d08e768c4f86e9e71989b9f77cdb1091306c2db7bf99"
+    },
+    {
+      "entryId": "bx1-15",
+      "section": "notes",
+      "filename": "bx1-15-notes.txt",
+      "firstParagraph": 799,
+      "lastParagraph": 850,
+      "paragraphs": 52,
+      "characters": 624,
+      "sha256": "4b53ddbfc6436756df78a39c6de00a5dc94b95922819cab864071913528f863b"
+    },
+    {
+      "entryId": "bx1-16",
+      "section": "original",
+      "filename": "bx1-16-original.txt",
+      "firstParagraph": 855,
+      "lastParagraph": 860,
+      "paragraphs": 6,
+      "characters": 67,
+      "sha256": "9fd6c6c926ec92be32e3c26d98824e3a50e7df787ac159a34e1311123e1c11d3"
+    },
+    {
+      "entryId": "bx1-16",
+      "section": "translation",
+      "filename": "bx1-16-translation.txt",
+      "firstParagraph": 862,
+      "lastParagraph": 862,
+      "paragraphs": 1,
+      "characters": 96,
+      "sha256": "2f118de50b9ca1cfe9f57942b1909b19ffe90bed86cb43c685beabc4aebeb3d1"
+    },
+    {
+      "entryId": "bx1-16",
+      "section": "notes",
+      "filename": "bx1-16-notes.txt",
+      "firstParagraph": 864,
+      "lastParagraph": 886,
+      "paragraphs": 23,
+      "characters": 300,
+      "sha256": "f660795cf562e90becb5875ac55fa36c22cd1340492a800925b010d29e8fed7e"
+    },
+    {
+      "entryId": "bx1-17",
+      "section": "original",
+      "filename": "bx1-17-original.txt",
+      "firstParagraph": 891,
+      "lastParagraph": 894,
+      "paragraphs": 4,
+      "characters": 51,
+      "sha256": "23441e78e58e34f638f45a479a93bfdbeb80bb85cba9befde86fdfcbb53eedcd"
+    },
+    {
+      "entryId": "bx1-17",
+      "section": "translation",
+      "filename": "bx1-17-translation.txt",
+      "firstParagraph": 896,
+      "lastParagraph": 896,
+      "paragraphs": 1,
+      "characters": 103,
+      "sha256": "c269e881d1a48d0b175406d0fbc66e8916dbd22e702a40512e37e0524e8cd581"
+    },
+    {
+      "entryId": "bx1-17",
+      "section": "notes",
+      "filename": "bx1-17-notes.txt",
+      "firstParagraph": 898,
+      "lastParagraph": 908,
+      "paragraphs": 11,
+      "characters": 129,
+      "sha256": "ff08f90cab75cef151bdf8cfec4b2b1a4584f0dc3a851cea4d844b9837b37e6b"
+    },
+    {
+      "entryId": "bx1-18",
+      "section": "original",
+      "filename": "bx1-18-original.txt",
+      "firstParagraph": 913,
+      "lastParagraph": 916,
+      "paragraphs": 4,
+      "characters": 67,
+      "sha256": "0835b7c5272e32c2c6152c312b376e6f68345883008d08b288928c49da142fbe"
+    },
+    {
+      "entryId": "bx1-18",
+      "section": "translation",
+      "filename": "bx1-18-translation.txt",
+      "firstParagraph": 918,
+      "lastParagraph": 918,
+      "paragraphs": 1,
+      "characters": 113,
+      "sha256": "634f67e6c7237958fb9ad15a2da8d8f372919cce8b77cd57e18546d71edf1109"
+    },
+    {
+      "entryId": "bx1-18",
+      "section": "notes",
+      "filename": "bx1-18-notes.txt",
+      "firstParagraph": 920,
+      "lastParagraph": 929,
+      "paragraphs": 10,
+      "characters": 120,
+      "sha256": "47a01be0d4cf63861b9adcee839a2eedb4804c2d7ace83fb9a16a0df4be45c4c"
+    },
+    {
+      "entryId": "bx1-19",
+      "section": "original",
+      "filename": "bx1-19-original.txt",
+      "firstParagraph": 934,
+      "lastParagraph": 937,
+      "paragraphs": 4,
+      "characters": 69,
+      "sha256": "14f747662031da09158b573a289ac8242609cc23c18e032810a5d31a90a38f65"
+    },
+    {
+      "entryId": "bx1-19",
+      "section": "translation",
+      "filename": "bx1-19-translation.txt",
+      "firstParagraph": 939,
+      "lastParagraph": 939,
+      "paragraphs": 1,
+      "characters": 133,
+      "sha256": "92c21b06c8f81cf6a9caa93de460ed484854f471d47ad1dc4f3af49a24c0cf01"
+    },
+    {
+      "entryId": "bx1-19",
+      "section": "notes",
+      "filename": "bx1-19-notes.txt",
+      "firstParagraph": 941,
+      "lastParagraph": 951,
+      "paragraphs": 11,
+      "characters": 94,
+      "sha256": "e554f696ae110337d12467aae8939793c8a058ec010cc53be97e80898e8bac08"
+    },
+    {
+      "entryId": "bx2-01",
+      "section": "original",
+      "filename": "bx2-01-original.txt",
+      "firstParagraph": 959,
+      "lastParagraph": 959,
+      "paragraphs": 1,
+      "characters": 436,
+      "sha256": "d8feceff7c93daaadfbc8e4637c92e81a96172f967d45e7c0661cda559e42e70"
+    },
+    {
+      "entryId": "bx2-01",
+      "section": "translation",
+      "filename": "bx2-01-translation.txt",
+      "firstParagraph": 961,
+      "lastParagraph": 961,
+      "paragraphs": 1,
+      "characters": 767,
+      "sha256": "90a4fe1d258695e69a01e2b4e1efaed6d900e449d0213522f6758214a6da890a"
+    },
+    {
+      "entryId": "bx2-01",
+      "section": "notes",
+      "filename": "bx2-01-notes.txt",
+      "firstParagraph": 963,
+      "lastParagraph": 1028,
+      "paragraphs": 66,
+      "characters": 769,
+      "sha256": "d09eecf6a3616761357f75eaa2c0709202fe0c817aaa501effbb233d69c4881c"
+    },
+    {
+      "entryId": "bx2-02",
+      "section": "original",
+      "filename": "bx2-02-original.txt",
+      "firstParagraph": 1033,
+      "lastParagraph": 1033,
+      "paragraphs": 1,
+      "characters": 1675,
+      "sha256": "da879215bc1d9a67f54ba9823ecdd49ce27bd56730c45c71e7b10b30cf78a29c"
+    },
+    {
+      "entryId": "bx2-02",
+      "section": "translation",
+      "filename": "bx2-02-translation.txt",
+      "firstParagraph": 1035,
+      "lastParagraph": 1035,
+      "paragraphs": 1,
+      "characters": 2960,
+      "sha256": "9153a42313bac352a6b9fe2e46e41a50df4c6417208da76805c9a2dfe974c6f6"
+    },
+    {
+      "entryId": "bx2-02",
+      "section": "notes",
+      "filename": "bx2-02-notes.txt",
+      "firstParagraph": 1037,
+      "lastParagraph": 1229,
+      "paragraphs": 193,
+      "characters": 2040,
+      "sha256": "95c2d2bee151b6be39f9c42474dff049649d6d15a03738c1f7f1182e190c0261"
+    },
+    {
+      "entryId": "bx2-03",
+      "section": "original",
+      "filename": "bx2-03-original.txt",
+      "firstParagraph": 1234,
+      "lastParagraph": 1234,
+      "paragraphs": 1,
+      "characters": 361,
+      "sha256": "114dc8ed4c64f11c1bb4a1c5b80fef002ad8b0f9f573d6f16f2a4d3c21d069fa"
+    },
+    {
+      "entryId": "bx2-03",
+      "section": "translation",
+      "filename": "bx2-03-translation.txt",
+      "firstParagraph": 1236,
+      "lastParagraph": 1236,
+      "paragraphs": 1,
+      "characters": 655,
+      "sha256": "b5724d7d41d63773f1ce7e1c9c0957c10e4251a11b560ab482ab1245f37e0b9b"
+    },
+    {
+      "entryId": "bx2-03",
+      "section": "notes",
+      "filename": "bx2-03-notes.txt",
+      "firstParagraph": 1238,
+      "lastParagraph": 1302,
+      "paragraphs": 65,
+      "characters": 749,
+      "sha256": "70cabb84dd22bb0575fa0ab0ccadd5edfd147d735b2e3a3799f81f2a72bbb212"
+    },
+    {
+      "entryId": "bx2-04",
+      "section": "original",
+      "filename": "bx2-04-original.txt",
+      "firstParagraph": 1307,
+      "lastParagraph": 1307,
+      "paragraphs": 1,
+      "characters": 375,
+      "sha256": "10217f9de9f52e6674d08237d8c6622728a182a80d6e5d48b59bd1a1f769ac2f"
+    },
+    {
+      "entryId": "bx2-04",
+      "section": "translation",
+      "filename": "bx2-04-translation.txt",
+      "firstParagraph": 1309,
+      "lastParagraph": 1309,
+      "paragraphs": 1,
+      "characters": 709,
+      "sha256": "56d84abad19cf0dddbc4f1dd98c15986a6328bb4c6769ae8fe161b42bc7d9d4e"
+    },
+    {
+      "entryId": "bx2-04",
+      "section": "notes",
+      "filename": "bx2-04-notes.txt",
+      "firstParagraph": 1311,
+      "lastParagraph": 1381,
+      "paragraphs": 71,
+      "characters": 785,
+      "sha256": "c1eb4cdfd8e4950502167b6e411255a83a00de295cecf240720cf23d45a4b01c"
+    },
+    {
+      "entryId": "bx2-05",
+      "section": "original",
+      "filename": "bx2-05-original.txt",
+      "firstParagraph": 1386,
+      "lastParagraph": 1386,
+      "paragraphs": 1,
+      "characters": 1837,
+      "sha256": "63f9022f3f1c0da58f1af6b53d0b22de923d2d84c83dd330f2d19d437abbe99d"
+    },
+    {
+      "entryId": "bx2-05",
+      "section": "translation",
+      "filename": "bx2-05-translation.txt",
+      "firstParagraph": 1388,
+      "lastParagraph": 1388,
+      "paragraphs": 1,
+      "characters": 2525,
+      "sha256": "495844332ad7aabd5c8ac15a1c371e3a148b1d78561343ddfe832f398f6ad3cf"
+    },
+    {
+      "entryId": "bx2-05",
+      "section": "notes",
+      "filename": "bx2-05-notes.txt",
+      "firstParagraph": 1390,
+      "lastParagraph": 1551,
+      "paragraphs": 162,
+      "characters": 1828,
+      "sha256": "9c63e4740a69a1750ab5976a918009c7a1a0770d7645903e8dfe0556f8b22414"
+    },
+    {
+      "entryId": "bx2-06",
+      "section": "original",
+      "filename": "bx2-06-original.txt",
+      "firstParagraph": 1556,
+      "lastParagraph": 1559,
+      "paragraphs": 4,
+      "characters": 866,
+      "sha256": "132587d707ccc54d159a799ac4a65262e8cc328493b06181ea821c3991215b7f"
+    },
+    {
+      "entryId": "bx2-06",
+      "section": "translation",
+      "filename": "bx2-06-translation.txt",
+      "firstParagraph": 1561,
+      "lastParagraph": 1564,
+      "paragraphs": 4,
+      "characters": 1385,
+      "sha256": "abb89567b5477a0f224712921079e34d2e9f7e848a780e419b416e4095ccb8b1"
+    },
+    {
+      "entryId": "bx2-06",
+      "section": "notes",
+      "filename": "bx2-06-notes.txt",
+      "firstParagraph": 1566,
+      "lastParagraph": 1653,
+      "paragraphs": 88,
+      "characters": 1094,
+      "sha256": "843ef1b8a7aa67854dd7d788456c55adbd3ab9edeca7d3d6009269565949f6a9"
+    },
+    {
+      "entryId": "bx2-07",
+      "section": "original",
+      "filename": "bx2-07-original.txt",
+      "firstParagraph": 1658,
+      "lastParagraph": 1660,
+      "paragraphs": 3,
+      "characters": 547,
+      "sha256": "1a1849c3e5dfd3a5f7d97beaa866a7c4e4af9caaffa66a6463c885cb095ca535"
+    },
+    {
+      "entryId": "bx2-07",
+      "section": "translation",
+      "filename": "bx2-07-translation.txt",
+      "firstParagraph": 1662,
+      "lastParagraph": 1664,
+      "paragraphs": 3,
+      "characters": 1115,
+      "sha256": "7351e9079d646fa9745297e37bb8ceeac94a95375402fe44c01d1ee6c4439536"
+    },
+    {
+      "entryId": "bx2-07",
+      "section": "notes",
+      "filename": "bx2-07-notes.txt",
+      "firstParagraph": 1666,
+      "lastParagraph": 1770,
+      "paragraphs": 105,
+      "characters": 1050,
+      "sha256": "776ad059a07e7e954420d7267979f060c2bd3f27c2eecfdee1df42cdbda68137"
+    },
+    {
+      "entryId": "bx2-08",
+      "section": "original",
+      "filename": "bx2-08-original.txt",
+      "firstParagraph": 1775,
+      "lastParagraph": 1778,
+      "paragraphs": 4,
+      "characters": 421,
+      "sha256": "d9c3ac85d6d40758429ea8a6de78189a9c95440874e7c3a2cff05a275651298b"
+    },
+    {
+      "entryId": "bx2-08",
+      "section": "translation",
+      "filename": "bx2-08-translation.txt",
+      "firstParagraph": 1780,
+      "lastParagraph": 1783,
+      "paragraphs": 4,
+      "characters": 822,
+      "sha256": "b0ae813dbaa7379ac240ac481d345cfe7e25ab4c67ea9c43b1493961192006f8"
+    },
+    {
+      "entryId": "bx2-08",
+      "section": "notes",
+      "filename": "bx2-08-notes.txt",
+      "firstParagraph": 1785,
+      "lastParagraph": 1859,
+      "paragraphs": 75,
+      "characters": 816,
+      "sha256": "8a45973efbd3af75bc4868220842af67c5f9d8c84b32ea423107eb66177b56a8"
+    },
+    {
+      "entryId": "bx2-09",
+      "section": "original",
+      "filename": "bx2-09-original.txt",
+      "firstParagraph": 1864,
+      "lastParagraph": 1867,
+      "paragraphs": 4,
+      "characters": 628,
+      "sha256": "7d3bced03ef43b8eb4366853d62ee64ae2971cf2683ab9af0deff8edca37f49a"
+    },
+    {
+      "entryId": "bx2-09",
+      "section": "translation",
+      "filename": "bx2-09-translation.txt",
+      "firstParagraph": 1869,
+      "lastParagraph": 1872,
+      "paragraphs": 4,
+      "characters": 1142,
+      "sha256": "bab5b6e3d5c1b91299a3a6cd2650dbeefb922b51612db2f6b90822fee47aa21e"
+    },
+    {
+      "entryId": "bx2-09",
+      "section": "notes",
+      "filename": "bx2-09-notes.txt",
+      "firstParagraph": 1874,
+      "lastParagraph": 1936,
+      "paragraphs": 63,
+      "characters": 747,
+      "sha256": "f60b024e1e5f33dd3387fd50fbfba57bdd8b7480c2afd263c6a9033f1fcc80d8"
+    },
+    {
+      "entryId": "bx2-10",
+      "section": "original",
+      "filename": "bx2-10-original.txt",
+      "firstParagraph": 1941,
+      "lastParagraph": 1945,
+      "paragraphs": 5,
+      "characters": 651,
+      "sha256": "96a0845f3d0ec40310e991dcb8e29b6802453633e471fea96ab2db631404e8e5"
+    },
+    {
+      "entryId": "bx2-10",
+      "section": "translation",
+      "filename": "bx2-10-translation.txt",
+      "firstParagraph": 1947,
+      "lastParagraph": 1951,
+      "paragraphs": 5,
+      "characters": 1193,
+      "sha256": "4ef00657562ce77cd857cbb7e4ab3be496af9bd217e207be8879ebfcd7f59c21"
+    },
+    {
+      "entryId": "bx2-10",
+      "section": "notes",
+      "filename": "bx2-10-notes.txt",
+      "firstParagraph": 1953,
+      "lastParagraph": 2063,
+      "paragraphs": 111,
+      "characters": 1121,
+      "sha256": "8751dd49890177cc86d7b4b8832c21779c5cbbe392d43476370455ed94398f8c"
+    },
+    {
+      "entryId": "bx2-11",
+      "section": "original",
+      "filename": "bx2-11-original.txt",
+      "firstParagraph": 2068,
+      "lastParagraph": 2071,
+      "paragraphs": 4,
+      "characters": 51,
+      "sha256": "ec6546df8059658f2b82bf5238d43e48e7c5f1667904c676ea04a367e4107b05"
+    },
+    {
+      "entryId": "bx2-11",
+      "section": "translation",
+      "filename": "bx2-11-translation.txt",
+      "firstParagraph": 2073,
+      "lastParagraph": 2073,
+      "paragraphs": 1,
+      "characters": 99,
+      "sha256": "30c0312a38a31cfb5de930024881979b15f8a67097b4760a9a47088cf5eab99b"
+    },
+    {
+      "entryId": "bx2-11",
+      "section": "notes",
+      "filename": "bx2-11-notes.txt",
+      "firstParagraph": 2075,
+      "lastParagraph": 2084,
+      "paragraphs": 10,
+      "characters": 110,
+      "sha256": "abfc37d649b3a1d79fb2206deacfc17944410459c4b8089c63f064795c43fdfb"
+    },
+    {
+      "entryId": "bx2-12",
+      "section": "original",
+      "filename": "bx2-12-original.txt",
+      "firstParagraph": 2089,
+      "lastParagraph": 2096,
+      "paragraphs": 8,
+      "characters": 130,
+      "sha256": "edf3f9f4c9f1a07f48026411a0d7330fed30ef9454ce69bc271bffb1fd053f97"
+    },
+    {
+      "entryId": "bx2-12",
+      "section": "translation",
+      "filename": "bx2-12-translation.txt",
+      "firstParagraph": 2098,
+      "lastParagraph": 2098,
+      "paragraphs": 1,
+      "characters": 238,
+      "sha256": "68f178bdb250a34b050580f4a0eaea3c800a2e337775c4d8089beda77e76902d"
+    },
+    {
+      "entryId": "bx2-12",
+      "section": "notes",
+      "filename": "bx2-12-notes.txt",
+      "firstParagraph": 2100,
+      "lastParagraph": 2128,
+      "paragraphs": 29,
+      "characters": 341,
+      "sha256": "6140ac95de874c41799a5fab78099b75398d967c0d81723c042eab77c000371f"
+    },
+    {
+      "entryId": "bx2-13",
+      "section": "original",
+      "filename": "bx2-13-original.txt",
+      "firstParagraph": 2133,
+      "lastParagraph": 2140,
+      "paragraphs": 8,
+      "characters": 127,
+      "sha256": "b892561c11d48acc217019c0ad91f7cb4b9a496298baacbb753fed8ae7d83375"
+    },
+    {
+      "entryId": "bx2-13",
+      "section": "translation",
+      "filename": "bx2-13-translation.txt",
+      "firstParagraph": 2142,
+      "lastParagraph": 2142,
+      "paragraphs": 1,
+      "characters": 269,
+      "sha256": "abe07fc87c83577c594a43b6b6fb04cd910a33a016dc8eb195e8dddcfc79f7f2"
+    },
+    {
+      "entryId": "bx2-13",
+      "section": "notes",
+      "filename": "bx2-13-notes.txt",
+      "firstParagraph": 2144,
+      "lastParagraph": 2179,
+      "paragraphs": 36,
+      "characters": 426,
+      "sha256": "74e75ccb11ff74dd6e19ca582d903103c50aacaadc02c1d6327a47cfb5fd266e"
+    },
+    {
+      "entryId": "bx2-14",
+      "section": "original",
+      "filename": "bx2-14-original.txt",
+      "firstParagraph": 2184,
+      "lastParagraph": 2186,
+      "paragraphs": 3,
+      "characters": 75,
+      "sha256": "bd30d4f6b231047d53f98cd2f76c3f5822cf81799fe9a73291f7299d0201c16c"
+    },
+    {
+      "entryId": "bx2-14",
+      "section": "translation",
+      "filename": "bx2-14-translation.txt",
+      "firstParagraph": 2188,
+      "lastParagraph": 2188,
+      "paragraphs": 1,
+      "characters": 135,
+      "sha256": "d4b3902e02fed37f2afac937532c72bb24fb2402878c0028523d8f9b264b089b"
+    },
+    {
+      "entryId": "bx2-14",
+      "section": "notes",
+      "filename": "bx2-14-notes.txt",
+      "firstParagraph": 2190,
+      "lastParagraph": 2206,
+      "paragraphs": 17,
+      "characters": 198,
+      "sha256": "dab599ba9022f6deb67e803a0cd3b64dfec70bdf7df2a08edab0209d9737b597"
+    },
+    {
+      "entryId": "xx1-01",
+      "section": "original",
+      "filename": "xx1-01-original.txt",
+      "firstParagraph": 2214,
+      "lastParagraph": 2214,
+      "paragraphs": 1,
+      "characters": 498,
+      "sha256": "b41ac6aeeafdc137bbc4670a50749b4c58e591bc625e5f0090cd431c84b00f55"
+    },
+    {
+      "entryId": "xx1-01",
+      "section": "translation",
+      "filename": "xx1-01-translation.txt",
+      "firstParagraph": 2216,
+      "lastParagraph": 2216,
+      "paragraphs": 1,
+      "characters": 736,
+      "sha256": "37c98fb2c1daa82e4157a7692cc532d8c08a438248dfa3e3fe01d0f69e11650d"
+    },
+    {
+      "entryId": "xx1-01",
+      "section": "notes",
+      "filename": "xx1-01-notes.txt",
+      "firstParagraph": 2218,
+      "lastParagraph": 2275,
+      "paragraphs": 58,
+      "characters": 585,
+      "sha256": "cd2a6d92f456423a9d12d1df80747b77f280f467f3b13d895523a717826e6154"
+    },
+    {
+      "entryId": "xx1-02",
+      "section": "original",
+      "filename": "xx1-02-original.txt",
+      "firstParagraph": 2280,
+      "lastParagraph": 2280,
+      "paragraphs": 1,
+      "characters": 216,
+      "sha256": "518ad03b03d6cf46095d4566ab7fdaefc72a3831dcd6995756fd3620871f744f"
+    },
+    {
+      "entryId": "xx1-02",
+      "section": "translation",
+      "filename": "xx1-02-translation.txt",
+      "firstParagraph": 2282,
+      "lastParagraph": 2282,
+      "paragraphs": 1,
+      "characters": 440,
+      "sha256": "722709dfcf1e3d2a9d6ea0bd732c464069b313abb25268e56655b24d88ff8031"
+    },
+    {
+      "entryId": "xx1-02",
+      "section": "notes",
+      "filename": "xx1-02-notes.txt",
+      "firstParagraph": 2284,
+      "lastParagraph": 2310,
+      "paragraphs": 27,
+      "characters": 295,
+      "sha256": "0564bb66377a0ec1ec23694dac9c63cf27d62035ab3dd6979b918193674d6f54"
+    },
+    {
+      "entryId": "xx1-03",
+      "section": "original",
+      "filename": "xx1-03-original.txt",
+      "firstParagraph": 2315,
+      "lastParagraph": 2315,
+      "paragraphs": 1,
+      "characters": 301,
+      "sha256": "886ba1041449b9483328803afdfa52925fbf71db403f7c2c5c8ec0dc52a58ef6"
+    },
+    {
+      "entryId": "xx1-03",
+      "section": "translation",
+      "filename": "xx1-03-translation.txt",
+      "firstParagraph": 2317,
+      "lastParagraph": 2317,
+      "paragraphs": 1,
+      "characters": 446,
+      "sha256": "a658018118e3779659565303af76a3b8558414ebe658d33d4c3d382e91e69adc"
+    },
+    {
+      "entryId": "xx1-03",
+      "section": "notes",
+      "filename": "xx1-03-notes.txt",
+      "firstParagraph": 2319,
+      "lastParagraph": 2346,
+      "paragraphs": 28,
+      "characters": 251,
+      "sha256": "ef6fae8c6a58906103c4292d73e434cd9df5eb08affe8d3a5ea89fa0756e3dca"
+    },
+    {
+      "entryId": "xx1-04",
+      "section": "original",
+      "filename": "xx1-04-original.txt",
+      "firstParagraph": 2351,
+      "lastParagraph": 2351,
+      "paragraphs": 1,
+      "characters": 342,
+      "sha256": "5b5d6b8dd55246dae95351960ba0b6efbdecda61975a0e84935201c1d3ccaeae"
+    },
+    {
+      "entryId": "xx1-04",
+      "section": "translation",
+      "filename": "xx1-04-translation.txt",
+      "firstParagraph": 2353,
+      "lastParagraph": 2353,
+      "paragraphs": 1,
+      "characters": 679,
+      "sha256": "d102f26aadf3ac34e66c58daa52c532d37b6176c697aad008646bd310ec25679"
+    },
+    {
+      "entryId": "xx1-04",
+      "section": "notes",
+      "filename": "xx1-04-notes.txt",
+      "firstParagraph": 2355,
+      "lastParagraph": 2392,
+      "paragraphs": 38,
+      "characters": 398,
+      "sha256": "05cbb5ca5908daabd48fc601ea7e279e282908145291876488a9b60bc2944870"
+    },
+    {
+      "entryId": "xx1-05",
+      "section": "original",
+      "filename": "xx1-05-original.txt",
+      "firstParagraph": 2397,
+      "lastParagraph": 2397,
+      "paragraphs": 1,
+      "characters": 256,
+      "sha256": "fc29979a8217869a39f26dae9f171584124c6668553ad677599d2932ac981b17"
+    },
+    {
+      "entryId": "xx1-05",
+      "section": "translation",
+      "filename": "xx1-05-translation.txt",
+      "firstParagraph": 2399,
+      "lastParagraph": 2399,
+      "paragraphs": 1,
+      "characters": 416,
+      "sha256": "9985a6272238f29601f12dbcdaa5f48c4e8032be5c37b7edec70cbb454ea0660"
+    },
+    {
+      "entryId": "xx1-05",
+      "section": "notes",
+      "filename": "xx1-05-notes.txt",
+      "firstParagraph": 2401,
+      "lastParagraph": 2441,
+      "paragraphs": 41,
+      "characters": 452,
+      "sha256": "0901d0b729ff28672a22ce82ce0d8116b38f0594715a1c76915039fd2a70a847"
+    },
+    {
+      "entryId": "xx1-06",
+      "section": "original",
+      "filename": "xx1-06-original.txt",
+      "firstParagraph": 2446,
+      "lastParagraph": 2446,
+      "paragraphs": 1,
+      "characters": 687,
+      "sha256": "b355e18d55ec310db65711d624b83b8530d4cc7597b9bd07f81edd811b5d1e4f"
+    },
+    {
+      "entryId": "xx1-06",
+      "section": "translation",
+      "filename": "xx1-06-translation.txt",
+      "firstParagraph": 2448,
+      "lastParagraph": 2448,
+      "paragraphs": 1,
+      "characters": 1027,
+      "sha256": "332cefd51a44bbcb98552df941caf4b0b85fde37b9a4bffdce68354488af734c"
+    },
+    {
+      "entryId": "xx1-06",
+      "section": "notes",
+      "filename": "xx1-06-notes.txt",
+      "firstParagraph": 2450,
+      "lastParagraph": 2480,
+      "paragraphs": 31,
+      "characters": 315,
+      "sha256": "cafdf6af9ebb99eb0bbdf848dc04072b6dddd7021355c662e9e2789e0c84b091"
+    },
+    {
+      "entryId": "xx1-07",
+      "section": "original",
+      "filename": "xx1-07-original.txt",
+      "firstParagraph": 2485,
+      "lastParagraph": 2490,
+      "paragraphs": 6,
+      "characters": 80,
+      "sha256": "6802f3fc3fcfbf9542ae41f80e4ab3ffc0e29c12a16c8976e79458e1e2f71b3e"
+    },
+    {
+      "entryId": "xx1-07",
+      "section": "translation",
+      "filename": "xx1-07-translation.txt",
+      "firstParagraph": 2492,
+      "lastParagraph": 2492,
+      "paragraphs": 1,
+      "characters": 120,
+      "sha256": "8f67db49a8fc67dd31761c17b4cadc68304e3d0dc1007b2c613bba51876facf8"
+    },
+    {
+      "entryId": "xx1-07",
+      "section": "notes",
+      "filename": "xx1-07-notes.txt",
+      "firstParagraph": 2494,
+      "lastParagraph": 2510,
+      "paragraphs": 17,
+      "characters": 179,
+      "sha256": "a3b220b55cc1a7a3d7290de6a080999ed2373d868bed3463b76c5911a21713b1"
+    },
+    {
+      "entryId": "xx1-08",
+      "section": "original",
+      "filename": "xx1-08-original.txt",
+      "firstParagraph": 2515,
+      "lastParagraph": 2532,
+      "paragraphs": 18,
+      "characters": 305,
+      "sha256": "9d757ab539cb547362e5e91ab5904dfd2496fa223609a4c27756fbcae2d0c6df"
+    },
+    {
+      "entryId": "xx1-08",
+      "section": "translation",
+      "filename": "xx1-08-translation.txt",
+      "firstParagraph": 2534,
+      "lastParagraph": 2534,
+      "paragraphs": 1,
+      "characters": 566,
+      "sha256": "725e7baa4bbaad91a3f666dce48d3ed35be644e6ea33c16c39ddd0fff1def00b"
+    },
+    {
+      "entryId": "xx1-08",
+      "section": "notes",
+      "filename": "xx1-08-notes.txt",
+      "firstParagraph": 2536,
+      "lastParagraph": 2560,
+      "paragraphs": 25,
+      "characters": 345,
+      "sha256": "2b9542e2feade1f908157345ef37ebdb1437a4824605a25e59c70171886a77e8"
+    },
+    {
+      "entryId": "xx1-09",
+      "section": "original",
+      "filename": "xx1-09-original.txt",
+      "firstParagraph": 2565,
+      "lastParagraph": 2576,
+      "paragraphs": 12,
+      "characters": 215,
+      "sha256": "8f7c028de78aac642ca6719dd7625c98b987d5adbc82120ac93545b7b4582554"
+    },
+    {
+      "entryId": "xx1-09",
+      "section": "translation",
+      "filename": "xx1-09-translation.txt",
+      "firstParagraph": 2578,
+      "lastParagraph": 2578,
+      "paragraphs": 1,
+      "characters": 379,
+      "sha256": "34815fd5b18ebac98da97e18188b7fa1db88992d141e7780e9dcae94142a5c76"
+    },
+    {
+      "entryId": "xx1-09",
+      "section": "notes",
+      "filename": "xx1-09-notes.txt",
+      "firstParagraph": 2580,
+      "lastParagraph": 2603,
+      "paragraphs": 24,
+      "characters": 288,
+      "sha256": "64acba2cfaf804be1925025f9d88cad06b8b8c0907a2ef03c29fbe0f89f633f2"
+    },
+    {
+      "entryId": "xx1-10",
+      "section": "original",
+      "filename": "xx1-10-original.txt",
+      "firstParagraph": 2608,
+      "lastParagraph": 2613,
+      "paragraphs": 6,
+      "characters": 91,
+      "sha256": "585265a1544200e88f5516523d5c89498033347960165eddc8c91c6cf2cac7ee"
+    },
+    {
+      "entryId": "xx1-10",
+      "section": "translation",
+      "filename": "xx1-10-translation.txt",
+      "firstParagraph": 2615,
+      "lastParagraph": 2615,
+      "paragraphs": 1,
+      "characters": 160,
+      "sha256": "31ee1645020b51da978c4adf80e7516e390c730ad0190b62cc79c4630e0c9ee1"
+    },
+    {
+      "entryId": "xx1-10",
+      "section": "notes",
+      "filename": "xx1-10-notes.txt",
+      "firstParagraph": 2617,
+      "lastParagraph": 2628,
+      "paragraphs": 12,
+      "characters": 142,
+      "sha256": "57c22c1065dd8442791a01ab9eb37afe4cf05b959b3568a51a43343a585b2e7d"
+    },
+    {
+      "entryId": "xx2-01",
+      "section": "original",
+      "filename": "xx2-01-original.txt",
+      "firstParagraph": 2636,
+      "lastParagraph": 2636,
+      "paragraphs": 1,
+      "characters": 1710,
+      "sha256": "6a28ed79be1a6f976a1ff79caf55fad85f1a1a5dbb88004d240dbc54ae70c3be"
+    },
+    {
+      "entryId": "xx2-01",
+      "section": "translation",
+      "filename": "xx2-01-translation.txt",
+      "firstParagraph": 2638,
+      "lastParagraph": 2638,
+      "paragraphs": 1,
+      "characters": 2655,
+      "sha256": "4a21658d62d32939d4dd7a8d490c61135e7848db766c9040415f1db011509727"
+    },
+    {
+      "entryId": "xx2-01",
+      "section": "notes",
+      "filename": "xx2-01-notes.txt",
+      "firstParagraph": 2640,
+      "lastParagraph": 2770,
+      "paragraphs": 131,
+      "characters": 1391,
+      "sha256": "28f8a367b77945f04211e26af4fa7603836b47a7750b4f5ab197b8028afccd59"
+    },
+    {
+      "entryId": "xx2-02",
+      "section": "original",
+      "filename": "xx2-02-original.txt",
+      "firstParagraph": 2775,
+      "lastParagraph": 2775,
+      "paragraphs": 1,
+      "characters": 1796,
+      "sha256": "13dcce08ea95457cc5de5fe82c120df2cdb1805d0107426f0d604ab916d0af17"
+    },
+    {
+      "entryId": "xx2-02",
+      "section": "translation",
+      "filename": "xx2-02-translation.txt",
+      "firstParagraph": 2777,
+      "lastParagraph": 2777,
+      "paragraphs": 1,
+      "characters": 2947,
+      "sha256": "ff5287c6f6dbb3d808a9dd88eb5378071d7a03b1c4c79225c0b82e92c5cb4d32"
+    },
+    {
+      "entryId": "xx2-02",
+      "section": "notes",
+      "filename": "xx2-02-notes.txt",
+      "firstParagraph": 2779,
+      "lastParagraph": 3027,
+      "paragraphs": 249,
+      "characters": 2574,
+      "sha256": "7aaec9e4b906c1f5891b54318073b99a9dbed74a27d010e4504c0d91954b8fed"
+    },
+    {
+      "entryId": "xx2-03",
+      "section": "original",
+      "filename": "xx2-03-original.txt",
+      "firstParagraph": 3032,
+      "lastParagraph": 3032,
+      "paragraphs": 1,
+      "characters": 1084,
+      "sha256": "3b385e5bd2477b5293b349c8de9e9f6a1b8899815c32cb8eaa9c6e5b5d8cfdea"
+    },
+    {
+      "entryId": "xx2-03",
+      "section": "translation",
+      "filename": "xx2-03-translation.txt",
+      "firstParagraph": 3034,
+      "lastParagraph": 3034,
+      "paragraphs": 1,
+      "characters": 1739,
+      "sha256": "753ae0bc36e4ffe6a9e830be1b415e7efd4ad64cbb4fe8b0d6aab123c535ebcd"
+    },
+    {
+      "entryId": "xx2-03",
+      "section": "notes",
+      "filename": "xx2-03-notes.txt",
+      "firstParagraph": 3036,
+      "lastParagraph": 3254,
+      "paragraphs": 219,
+      "characters": 2377,
+      "sha256": "2b92513d4ee5354d0d25fa564f281a439ca431c86cbac8e359cb05ec779465e4"
+    },
+    {
+      "entryId": "xx2-04",
+      "section": "original",
+      "filename": "xx2-04-original.txt",
+      "firstParagraph": 3259,
+      "lastParagraph": 3259,
+      "paragraphs": 1,
+      "characters": 397,
+      "sha256": "9e06c515d341de13e9f34eadbc857c53c0ab5987a3a0c62d5daea6f123d514b3"
+    },
+    {
+      "entryId": "xx2-04",
+      "section": "translation",
+      "filename": "xx2-04-translation.txt",
+      "firstParagraph": 3261,
+      "lastParagraph": 3261,
+      "paragraphs": 1,
+      "characters": 611,
+      "sha256": "f04a5a2e741b795d3f0a574dd2b29855f85db4d9eacd24bb21d659422ffa8959"
+    },
+    {
+      "entryId": "xx2-04",
+      "section": "notes",
+      "filename": "xx2-04-notes.txt",
+      "firstParagraph": 3263,
+      "lastParagraph": 3334,
+      "paragraphs": 72,
+      "characters": 737,
+      "sha256": "8aa0a5705910e5d4582bfd190366c25f9663cf82596c7b24ce40699059247d55"
+    },
+    {
+      "entryId": "xx2-05",
+      "section": "original",
+      "filename": "xx2-05-original.txt",
+      "firstParagraph": 3339,
+      "lastParagraph": 3353,
+      "paragraphs": 15,
+      "characters": 282,
+      "sha256": "db433e86ac1bc6c13f9e57930c080933867ee277ab8c0311a6c1d9c2562f44d5"
+    },
+    {
+      "entryId": "xx2-05",
+      "section": "translation",
+      "filename": "xx2-05-translation.txt",
+      "firstParagraph": 3355,
+      "lastParagraph": 3355,
+      "paragraphs": 1,
+      "characters": 473,
+      "sha256": "53b0059688b653bb0bd4cdc6344a02d5c71152143e2ad61d037b2c6a22282b66"
+    },
+    {
+      "entryId": "xx2-05",
+      "section": "notes",
+      "filename": "xx2-05-notes.txt",
+      "firstParagraph": 3357,
+      "lastParagraph": 3443,
+      "paragraphs": 87,
+      "characters": 1036,
+      "sha256": "7d4b7bb24665f651976d99302c88f4a0b2adf693edba7224682610837294906a"
+    },
+    {
+      "entryId": "xx2-06",
+      "section": "original",
+      "filename": "xx2-06-original.txt",
+      "firstParagraph": 3448,
+      "lastParagraph": 3454,
+      "paragraphs": 7,
+      "characters": 118,
+      "sha256": "98fbcae3ea7b67d81816047b8d8ec0662b7d608263707a8f92994cf4d27865a0"
+    },
+    {
+      "entryId": "xx2-06",
+      "section": "translation",
+      "filename": "xx2-06-translation.txt",
+      "firstParagraph": 3456,
+      "lastParagraph": 3456,
+      "paragraphs": 1,
+      "characters": 308,
+      "sha256": "137d50bf9693f375c4f696adb696f5cb8841168c986add0661cfd8b87e895691"
+    },
+    {
+      "entryId": "xx2-06",
+      "section": "notes",
+      "filename": "xx2-06-notes.txt",
+      "firstParagraph": 3458,
+      "lastParagraph": 3469,
+      "paragraphs": 12,
+      "characters": 146,
+      "sha256": "d6e47947e02334fbc85165e5d70e2b6060a2adbe90908c9866230c96ea908e2f"
+    },
+    {
+      "entryId": "xx2-07",
+      "section": "original",
+      "filename": "xx2-07-original.txt",
+      "firstParagraph": 3474,
+      "lastParagraph": 3477,
+      "paragraphs": 4,
+      "characters": 67,
+      "sha256": "bd838624a4f03794f14e6a53380592efeea9e37ce9203c6182b1deef240c1ac4"
+    },
+    {
+      "entryId": "xx2-07",
+      "section": "translation",
+      "filename": "xx2-07-translation.txt",
+      "firstParagraph": 3479,
+      "lastParagraph": 3479,
+      "paragraphs": 1,
+      "characters": 112,
+      "sha256": "d59fe91eec61c34645e408bc18f45a5b5a3f3fe5de30a3b50113487fbf2dc107"
+    },
+    {
+      "entryId": "xx2-07",
+      "section": "notes",
+      "filename": "xx2-07-notes.txt",
+      "firstParagraph": 3481,
+      "lastParagraph": 3486,
+      "paragraphs": 6,
+      "characters": 80,
+      "sha256": "e92e95472627c34484b24ec7259bf2795e3efa5dd1f12cc997b7e437f334dc91"
+    },
+    {
+      "entryId": "xx2-08",
+      "section": "original",
+      "filename": "xx2-08-original.txt",
+      "firstParagraph": 3491,
+      "lastParagraph": 3494,
+      "paragraphs": 4,
+      "characters": 67,
+      "sha256": "1ea881d3e422ec30d6cf1b5c02443b1818ed9092ba190cac357b2b7050f49986"
+    },
+    {
+      "entryId": "xx2-08",
+      "section": "translation",
+      "filename": "xx2-08-translation.txt",
+      "firstParagraph": 3496,
+      "lastParagraph": 3496,
+      "paragraphs": 1,
+      "characters": 176,
+      "sha256": "bd2f9cb7467a1e824a75dff8864ec69c6143ee68ace14e2babcb07cffcfe0c98"
+    },
+    {
+      "entryId": "xx2-08",
+      "section": "notes",
+      "filename": "xx2-08-notes.txt",
+      "firstParagraph": 3498,
+      "lastParagraph": 3513,
+      "paragraphs": 16,
+      "characters": 198,
+      "sha256": "3d30832af658e4950398f5e63360d05809bda358cdb44e4b38c8709346cc1f4b"
+    },
+    {
+      "entryId": "xx3-01",
+      "section": "original",
+      "filename": "xx3-01-original.txt",
+      "firstParagraph": 3521,
+      "lastParagraph": 3526,
+      "paragraphs": 6,
+      "characters": 305,
+      "sha256": "b996009bd0924dc04f07cec791afc8e8b1c8f37311354cacc3e46719cfde3b0f"
+    },
+    {
+      "entryId": "xx3-01",
+      "section": "translation",
+      "filename": "xx3-01-translation.txt",
+      "firstParagraph": 3528,
+      "lastParagraph": 3528,
+      "paragraphs": 1,
+      "characters": 480,
+      "sha256": "8d59ce631ca613f2ff19124ac4d43fb9fc887e846e79ec65acb692ed2d8bab23"
+    },
+    {
+      "entryId": "xx3-01",
+      "section": "notes",
+      "filename": "xx3-01-notes.txt",
+      "firstParagraph": 3530,
+      "lastParagraph": 3602,
+      "paragraphs": 73,
+      "characters": 766,
+      "sha256": "34edf8cab701506691654e6a7e41e156cc6a19da754aa4b25ee32c223cbddb45"
+    },
+    {
+      "entryId": "xx3-02",
+      "section": "original",
+      "filename": "xx3-02-original.txt",
+      "firstParagraph": 3607,
+      "lastParagraph": 3611,
+      "paragraphs": 5,
+      "characters": 787,
+      "sha256": "8377e01f688dcd641a309900772941c911f8eeb5e479773078e5eaedd0419460"
+    },
+    {
+      "entryId": "xx3-02",
+      "section": "translation",
+      "filename": "xx3-02-translation.txt",
+      "firstParagraph": 3613,
+      "lastParagraph": 3613,
+      "paragraphs": 1,
+      "characters": 1112,
+      "sha256": "6d9afbeab5819f266b25734a3726f9e7a9e8c190fb7045b6db9de712f9f2428c"
+    },
+    {
+      "entryId": "xx3-02",
+      "section": "notes",
+      "filename": "xx3-02-notes.txt",
+      "firstParagraph": 3615,
+      "lastParagraph": 3836,
+      "paragraphs": 222,
+      "characters": 2350,
+      "sha256": "4ad02fe0d863930deb05db78fd849b5654a8e35a47f7624fc0c44e770bd13fd3"
+    },
+    {
+      "entryId": "xx3-03",
+      "section": "original",
+      "filename": "xx3-03-original.txt",
+      "firstParagraph": 3841,
+      "lastParagraph": 3872,
+      "paragraphs": 32,
+      "characters": 2190,
+      "sha256": "2078525ddc0ea1dd09b2f0424b9d62f65f5902ea56aef4610c5f120b36df6829"
+    },
+    {
+      "entryId": "xx3-03",
+      "section": "translation",
+      "filename": "xx3-03-translation.txt",
+      "firstParagraph": 3874,
+      "lastParagraph": 3874,
+      "paragraphs": 1,
+      "characters": 4145,
+      "sha256": "0e2c25c20f720de5ac48cd8baa59d0415d02fa882c3ce0106e30eeac91530273"
+    },
+    {
+      "entryId": "xx3-03",
+      "section": "notes",
+      "filename": "xx3-03-notes.txt",
+      "firstParagraph": 3876,
+      "lastParagraph": 4284,
+      "paragraphs": 409,
+      "characters": 4730,
+      "sha256": "c98b09d2e2080fd938f80afbfb0894ffe2475693ed916e0545770fe68c13ca3c"
+    },
+    {
+      "entryId": "xx3-04",
+      "section": "original",
+      "filename": "xx3-04-original.txt",
+      "firstParagraph": 4289,
+      "lastParagraph": 4309,
+      "paragraphs": 21,
+      "characters": 363,
+      "sha256": "9ed2fda80c1c836ea98b89c3cc5bac93885d466508ac1bef39baca9a58e6cc2e"
+    },
+    {
+      "entryId": "xx3-04",
+      "section": "translation",
+      "filename": "xx3-04-translation.txt",
+      "firstParagraph": 4311,
+      "lastParagraph": 4311,
+      "paragraphs": 1,
+      "characters": 609,
+      "sha256": "a624e2169650d4731e5675acf7007ec20a5f1eef4a69d83c8bf978f94744a8fc"
+    },
+    {
+      "entryId": "xx3-04",
+      "section": "notes",
+      "filename": "xx3-04-notes.txt",
+      "firstParagraph": 4313,
+      "lastParagraph": 4390,
+      "paragraphs": 78,
+      "characters": 804,
+      "sha256": "ae62098d1eb307824064dd1938e9f2ff980856dba6aa5b207e7a2952b754d87a"
+    },
+    {
+      "entryId": "xx3-05",
+      "section": "original",
+      "filename": "xx3-05-original.txt",
+      "firstParagraph": 4395,
+      "lastParagraph": 4398,
+      "paragraphs": 4,
+      "characters": 67,
+      "sha256": "bc00c03c370a15c6aebc58aeb646280204b0891c4e1bddc2c49a572dec7c4c46"
+    },
+    {
+      "entryId": "xx3-05",
+      "section": "translation",
+      "filename": "xx3-05-translation.txt",
+      "firstParagraph": 4400,
+      "lastParagraph": 4400,
+      "paragraphs": 1,
+      "characters": 117,
+      "sha256": "5329367dde11960bd61f0ee21182f16e089270c01f780db122ee624f422430d5"
+    },
+    {
+      "entryId": "xx3-05",
+      "section": "notes",
+      "filename": "xx3-05-notes.txt",
+      "firstParagraph": 4402,
+      "lastParagraph": 4428,
+      "paragraphs": 27,
+      "characters": 339,
+      "sha256": "36802dd769ecf0aff5cc605bbacfcb84475a3a2cf72d9871f31e7f6c107f6708"
+    },
+    {
+      "entryId": "xx3-06",
+      "section": "original",
+      "filename": "xx3-06-original.txt",
+      "firstParagraph": 4433,
+      "lastParagraph": 4440,
+      "paragraphs": 8,
+      "characters": 137,
+      "sha256": "b77ecc89885f5b56b2862b9909407ce379b9d85db4a55908ff4e3b2ec3cab1e0"
+    },
+    {
+      "entryId": "xx3-06",
+      "section": "translation",
+      "filename": "xx3-06-translation.txt",
+      "firstParagraph": 4442,
+      "lastParagraph": 4442,
+      "paragraphs": 1,
+      "characters": 265,
+      "sha256": "3a6ba481c248efa466be41710b62c8627a52d82722ccc6247a9366f8bfe2d630"
+    },
+    {
+      "entryId": "xx3-06",
+      "section": "notes",
+      "filename": "xx3-06-notes.txt",
+      "firstParagraph": 4444,
+      "lastParagraph": 4496,
+      "paragraphs": 53,
+      "characters": 579,
+      "sha256": "b9c060c3679616f201e2148692b24bbd2354a65c6ae4593443ad04782c76fc10"
+    },
+    {
+      "entryId": "xx3-07",
+      "section": "original",
+      "filename": "xx3-07-original.txt",
+      "firstParagraph": 4501,
+      "lastParagraph": 4509,
+      "paragraphs": 9,
+      "characters": 205,
+      "sha256": "6b4adb3840d7f0ed890b2957d2b2945827764e02a269abdc6c06cbdd171305ba"
+    },
+    {
+      "entryId": "xx3-07",
+      "section": "translation",
+      "filename": "xx3-07-translation.txt",
+      "firstParagraph": 4511,
+      "lastParagraph": 4511,
+      "paragraphs": 1,
+      "characters": 366,
+      "sha256": "b627774108c39df2068da0a3f48af9f822bfb002705c476177a6beae010cb1ad"
+    },
+    {
+      "entryId": "xx3-07",
+      "section": "notes",
+      "filename": "xx3-07-notes.txt",
+      "firstParagraph": 4513,
+      "lastParagraph": 4573,
+      "paragraphs": 61,
+      "characters": 687,
+      "sha256": "19485f649834dd8fb59cd7e91f70932713b25c68417e6e6c291e8b4cfc294e35"
+    },
+    {
+      "entryId": "xx3-08",
+      "section": "original",
+      "filename": "xx3-08-original.txt",
+      "firstParagraph": 4578,
+      "lastParagraph": 4578,
+      "paragraphs": 1,
+      "characters": 571,
+      "sha256": "33c25d26fab437eeb727027f6ef1d2a260a7f95885ec47d423a248c097b79e7d"
+    },
+    {
+      "entryId": "xx3-08",
+      "section": "translation",
+      "filename": "xx3-08-translation.txt",
+      "firstParagraph": 4580,
+      "lastParagraph": 4580,
+      "paragraphs": 1,
+      "characters": 1010,
+      "sha256": "0f3f84d463c88c97a73638dc290ca272bb5d0c6e30aebda66542b3ddb379745d"
+    },
+    {
+      "entryId": "xx3-08",
+      "section": "notes",
+      "filename": "xx3-08-notes.txt",
+      "firstParagraph": 4582,
+      "lastParagraph": 4768,
+      "paragraphs": 187,
+      "characters": 2055,
+      "sha256": "f5c55d60a43e90a617d92aed5ae54e14ef89b7f5ec97b4537e9b25844ff259bd"
+    },
+    {
+      "entryId": "xx3-09",
+      "section": "original",
+      "filename": "xx3-09-original.txt",
+      "firstParagraph": 4773,
+      "lastParagraph": 4773,
+      "paragraphs": 1,
+      "characters": 681,
+      "sha256": "b149cbc64a8e26fd00e9234705a46d65e3e561811cfc693bd5aa66e2d9a0e111"
+    },
+    {
+      "entryId": "xx3-09",
+      "section": "translation",
+      "filename": "xx3-09-translation.txt",
+      "firstParagraph": 4775,
+      "lastParagraph": 4775,
+      "paragraphs": 1,
+      "characters": 1172,
+      "sha256": "82e4f6262237fa2d16aa81bb1cb98286ceb527abd49c3b71bd424f9d70624ca9"
+    },
+    {
+      "entryId": "xx3-09",
+      "section": "notes",
+      "filename": "xx3-09-notes.txt",
+      "firstParagraph": 4777,
+      "lastParagraph": 5036,
+      "paragraphs": 260,
+      "characters": 2675,
+      "sha256": "5356e0dab492b472d475625206b0af47fe3908988cf8ec6682b23fdab2cd8b95"
+    },
+    {
+      "entryId": "xx3-10",
+      "section": "original",
+      "filename": "xx3-10-original.txt",
+      "firstParagraph": 5041,
+      "lastParagraph": 5041,
+      "paragraphs": 1,
+      "characters": 390,
+      "sha256": "0526f3cee9a98628e99dab8029b0b23fba74affaf74051199d6cd103cc09c0fc"
+    },
+    {
+      "entryId": "xx3-10",
+      "section": "translation",
+      "filename": "xx3-10-translation.txt",
+      "firstParagraph": 5043,
+      "lastParagraph": 5043,
+      "paragraphs": 1,
+      "characters": 676,
+      "sha256": "bb63d245bbf7317b6a245c84b9702b67e06e73293830157a11d6ba1eabc60f0a"
+    },
+    {
+      "entryId": "xx3-10",
+      "section": "notes",
+      "filename": "xx3-10-notes.txt",
+      "firstParagraph": 5045,
+      "lastParagraph": 5155,
+      "paragraphs": 111,
+      "characters": 1187,
+      "sha256": "55ece14067dc3f04d8ad86c9a57decc5c650721a6f86a980648dbe5e7fc14595"
+    },
+    {
+      "entryId": "xx3-11",
+      "section": "original",
+      "filename": "xx3-11-original.txt",
+      "firstParagraph": 5160,
+      "lastParagraph": 5160,
+      "paragraphs": 1,
+      "characters": 639,
+      "sha256": "717679aef5b226e8021f94ba82887c5fd48ca44e71a2a73658f9c7b88168ee7c"
+    },
+    {
+      "entryId": "xx3-11",
+      "section": "translation",
+      "filename": "xx3-11-translation.txt",
+      "firstParagraph": 5162,
+      "lastParagraph": 5162,
+      "paragraphs": 1,
+      "characters": 1135,
+      "sha256": "6cbb69d8e8cf3cc6fa9a5f0c2381362764a863da99a1e1afb336fdfd56db5f8f"
+    },
+    {
+      "entryId": "xx3-11",
+      "section": "notes",
+      "filename": "xx3-11-notes.txt",
+      "firstParagraph": 5164,
+      "lastParagraph": 5405,
+      "paragraphs": 242,
+      "characters": 2567,
+      "sha256": "c474cd1751780ac291dd9f574962fdcd3c0c8d04d839ad7dd6ef5cf9ef729780"
+    },
+    {
+      "entryId": "xx3-12",
+      "section": "original",
+      "filename": "xx3-12-original.txt",
+      "firstParagraph": 5410,
+      "lastParagraph": 5410,
+      "paragraphs": 1,
+      "characters": 583,
+      "sha256": "c8b2ce0670d82a6cb2222882cff5fd7280f45dfcafae9f41a7520dc819a61923"
+    },
+    {
+      "entryId": "xx3-12",
+      "section": "translation",
+      "filename": "xx3-12-translation.txt",
+      "firstParagraph": 5412,
+      "lastParagraph": 5412,
+      "paragraphs": 1,
+      "characters": 1042,
+      "sha256": "f14d90ee8869ec366e3541b80807c30f55a60b4831067d15cd5716c005ca41de"
+    },
+    {
+      "entryId": "xx3-12",
+      "section": "notes",
+      "filename": "xx3-12-notes.txt",
+      "firstParagraph": 5414,
+      "lastParagraph": 5635,
+      "paragraphs": 222,
+      "characters": 2290,
+      "sha256": "a240b919dd2e0c99c85f656556ccbed7cb233134fc1264ea4e9e54fe820ff72b"
+    },
+    {
+      "entryId": "xx3-13",
+      "section": "original",
+      "filename": "xx3-13-original.txt",
+      "firstParagraph": 5640,
+      "lastParagraph": 5640,
+      "paragraphs": 1,
+      "characters": 594,
+      "sha256": "f3c2dd18d895ebf56761f93d3529ce77edfa0d036f6f3176d00a2fcc168cc3c2"
+    },
+    {
+      "entryId": "xx3-13",
+      "section": "translation",
+      "filename": "xx3-13-translation.txt",
+      "firstParagraph": 5642,
+      "lastParagraph": 5642,
+      "paragraphs": 1,
+      "characters": 971,
+      "sha256": "563a790ba94d4182854d42a8efbefb0d1bb36af8b527c44868e44061c58c40e5"
+    },
+    {
+      "entryId": "xx3-13",
+      "section": "notes",
+      "filename": "xx3-13-notes.txt",
+      "firstParagraph": 5644,
+      "lastParagraph": 5853,
+      "paragraphs": 210,
+      "characters": 2344,
+      "sha256": "ca7e68ff63728235cc0975bf7893a4c6460c21597237380bc968358d090f51a2"
+    },
+    {
+      "entryId": "xx3-14",
+      "section": "original",
+      "filename": "xx3-14-original.txt",
+      "firstParagraph": 5858,
+      "lastParagraph": 5861,
+      "paragraphs": 4,
+      "characters": 61,
+      "sha256": "3875441a629d11f38bc34e978d0448ed7feb04aedb88edb4ee5e1ce6fba1ffe4"
+    },
+    {
+      "entryId": "xx3-14",
+      "section": "translation",
+      "filename": "xx3-14-translation.txt",
+      "firstParagraph": 5863,
+      "lastParagraph": 5863,
+      "paragraphs": 1,
+      "characters": 110,
+      "sha256": "912d3aa2c030d1b7c560549d1c21516d224ce89463eb2118047ea19b4a0dfba7"
+    },
+    {
+      "entryId": "xx3-14",
+      "section": "notes",
+      "filename": "xx3-14-notes.txt",
+      "firstParagraph": 5865,
+      "lastParagraph": 5880,
+      "paragraphs": 16,
+      "characters": 170,
+      "sha256": "766b0c67c4c3d7ad4654f6c40988a410ff2d42403846930f60e103eba4ee0baa"
+    },
+    {
+      "entryId": "xx3-15",
+      "section": "original",
+      "filename": "xx3-15-original.txt",
+      "firstParagraph": 5885,
+      "lastParagraph": 5888,
+      "paragraphs": 4,
+      "characters": 67,
+      "sha256": "093c2b427209ce00f2760c68e84c37735b540f33498cc7d54f42698bf5af8e41"
+    },
+    {
+      "entryId": "xx3-15",
+      "section": "translation",
+      "filename": "xx3-15-translation.txt",
+      "firstParagraph": 5890,
+      "lastParagraph": 5890,
+      "paragraphs": 1,
+      "characters": 124,
+      "sha256": "71153a40d681944f2d25e89eca9cf55ec7e79d1bb2f2116028f026059123fcd4"
+    },
+    {
+      "entryId": "xx3-15",
+      "section": "notes",
+      "filename": "xx3-15-notes.txt",
+      "firstParagraph": 5892,
+      "lastParagraph": 5930,
+      "paragraphs": 39,
+      "characters": 438,
+      "sha256": "e4bc140ee8c038dc5a45fc47a4b8b5b7b7a60847f99f9d99c54a4700dd077be6"
+    },
+    {
+      "entryId": "xx3-16",
+      "section": "original",
+      "filename": "xx3-16-original.txt",
+      "firstParagraph": 5935,
+      "lastParagraph": 5938,
+      "paragraphs": 4,
+      "characters": 67,
+      "sha256": "ef91cb06f028c7cf0e3c8f324a89882a13b604622abb88f2ac7894f2178864dc"
+    },
+    {
+      "entryId": "xx3-16",
+      "section": "translation",
+      "filename": "xx3-16-translation.txt",
+      "firstParagraph": 5940,
+      "lastParagraph": 5940,
+      "paragraphs": 1,
+      "characters": 173,
+      "sha256": "159b9436d7f2f97e9c78a7f973ff567666a651cabe88f98c4ea3375fff863a5a"
+    },
+    {
+      "entryId": "xx3-16",
+      "section": "notes",
+      "filename": "xx3-16-notes.txt",
+      "firstParagraph": 5942,
+      "lastParagraph": 5960,
+      "paragraphs": 19,
+      "characters": 220,
+      "sha256": "f22c64e83df9f6944d47f7b05689fc39a5d7278ebcca4d418d224f9d62a98819"
+    },
+    {
+      "entryId": "xx3-17",
+      "section": "original",
+      "filename": "xx3-17-original.txt",
+      "firstParagraph": 5965,
+      "lastParagraph": 5968,
+      "paragraphs": 4,
+      "characters": 67,
+      "sha256": "720c2f28a80065f7909a99946c9127693fab4fdad2ba0ff9c3392e209e727599"
+    },
+    {
+      "entryId": "xx3-17",
+      "section": "translation",
+      "filename": "xx3-17-translation.txt",
+      "firstParagraph": 5970,
+      "lastParagraph": 5970,
+      "paragraphs": 1,
+      "characters": 151,
+      "sha256": "494f1901dd44441e9714d9964d34143a1b605320a0bf9c29dcbae0b3804f4b8f"
+    },
+    {
+      "entryId": "xx3-17",
+      "section": "notes",
+      "filename": "xx3-17-notes.txt",
+      "firstParagraph": 5972,
+      "lastParagraph": 6004,
+      "paragraphs": 33,
+      "characters": 409,
+      "sha256": "42287429d34eb282c30a2aabc5e815bf408f8b26b5c48c876157b021f028007f"
+    }
+  ]
+}
